@@ -1,2 +1,45 @@
-# 9d06d110-digital-twins-simulation-eve
-Create events, manage RSVPs, send reminders, and track attendance. Community events without external tools.
+# Digital Twins & Simulation Event Scheduler and RSVP Manager Bot
+
+> Bot for Digital Twins
+
+You shouldn't need someone manually watching channels 24/7 to have 24/7 automated responses without touching a server.
+
+Easy setup: invite → configure → active in under 10 minutes. Multi-server support with per-server configuration and permission levels.
+
+## What's Included
+
+- Digital Twins & Simulation Event Scheduler And Rsvp Manager — fully...
+
+## Features
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic commands | ✅ | ✅ |
+| Standard responses | ✅ | ✅ |
+| Community access | ✅ | ✅ |
+| Custom commands | ❌ | ✅ |
+| Analytics dashboard | ❌ | ✅ |
+| Priority processing | ❌ | ✅ |
+| API webhooks | ❌ | ✅ |
+| Unlimited servers | ❌ | ✅ |
+
+## Get the Full Version
+
+Upgrade to the Pro version for **$39.99** and unlock all premium features.
+
+**[Buy Now (Stripe)](https://buy.stripe.com/7sY4gz4ePcYI2hibzScZd1s)** — Secure checkout
+
+## Installation
+
+1. Download the latest release from the [Releases page](../../releases)
+2. Extract and follow the setup instructions in the included documentation
+3. For Pro features, enter your license key after purchase
+
+## Support
+
+- Open an [issue](../../issues) for bug reports
+
+## License
+
+Free tier: MIT License for personal and commercial use.
+Pro tier: Commercial license included with purchase.
